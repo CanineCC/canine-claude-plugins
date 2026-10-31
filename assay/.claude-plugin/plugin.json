@@ -1,0 +1,6 @@
+{
+  "name": "assay",
+  "version": "1.0.0",
+  "description": "Assay: read your codebases' decision reports and what each finding means for the deal. Read-only",
+  "author": { "name": "Canine" }
+}

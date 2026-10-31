@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "assure": {
+      "type": "http",
+      "url": "${ASSURE_MCP_URL:-https://app.assure.canine.dev/mcp/assure}",
+      "headers": { "Authorization": "Bearer ${ASSURE_AGENT_KEY}" }
+    }
+  }
+}

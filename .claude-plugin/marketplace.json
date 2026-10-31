@@ -1,0 +1,29 @@
+{
+  "name": "canine",
+  "description": "Canine products for your coding agent: measured findings, the architecture map and a drift check",
+  "owner": {
+    "name": "Canine"
+  },
+  "plugins": [
+    {
+      "name": "assert",
+      "source": "./assert",
+      "description": "Assert: measured findings, the architecture map and a drift check for your coding agent"
+    },
+    {
+      "name": "cca",
+      "source": "./cca",
+      "description": "CCA: the public API as an MCP server for your coding agent, and a command that scans this repository and reads its scores and open findings"
+    },
+    {
+      "name": "assure",
+      "source": "./assure",
+      "description": "Assure: what to fix before real people use your app, for your coding agent to fix one finding at a time"
+    },
+    {
+      "name": "assay",
+      "source": "./assay",
+      "description": "Assay: read your codebases' decision reports and what each finding means for the deal. Read-only"
+    }
+  ]
+}

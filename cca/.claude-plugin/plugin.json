@@ -1,0 +1,8 @@
+{
+  "name": "cca",
+  "version": "1.0.0",
+  "description": "Canine Code Analyzer: the public API as an MCP server, and a command that scans this repository and reads its scores and open findings",
+  "author": {
+    "name": "Canine"
+  }
+}

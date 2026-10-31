@@ -1,0 +1,6 @@
+{
+  "name": "assert",
+  "version": "1.0.0",
+  "description": "Work the Assert audit, read the architecture map before writing code, and check the diff for drift",
+  "author": { "name": "Canine" }
+}

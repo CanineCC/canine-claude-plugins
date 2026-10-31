@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "assay": {
+      "type": "http",
+      "url": "${ASSAY_MCP_URL:-https://app.assay.canine.dev/mcp/assay}",
+      "headers": { "Authorization": "Bearer ${ASSAY_API_KEY}" }
+    }
+  }
+}
