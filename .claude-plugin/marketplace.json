@@ -1,24 +1,14 @@
 {
   "name": "canine",
-  "description": "Canine products for your coding agent: measured findings, the architecture map and a drift check",
+  "description": "Canine products for your coding agent: one MCP server for every product, and the commands that fix and scan",
   "owner": {
     "name": "Canine"
   },
   "plugins": [
     {
-      "name": "assert",
-      "source": "./assert",
-      "description": "Assert: measured findings, the architecture map and a drift check for your coding agent"
-    },
-    {
       "name": "cca",
       "source": "./cca",
-      "description": "CCA: the public API as an MCP server for your coding agent, and a command that scans this repository and reads its scores and open findings"
-    },
-    {
-      "name": "assure",
-      "source": "./assure",
-      "description": "Assure: what to fix before real people use your app, for your coding agent to fix one finding at a time"
+      "description": "Canine Code Analyzer, for Assure, Assert and CCA: /cca-fix fixes this repository's findings most important first, /cca-scan scans it"
     },
     {
       "name": "assay",

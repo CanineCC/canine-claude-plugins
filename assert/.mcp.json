@@ -1,9 +1,0 @@
-{
-  "mcpServers": {
-    "assert": {
-      "type": "http",
-      "url": "${ASSERT_MCP_URL:-https://app.assert.canine.dev/mcp}",
-      "headers": { "X-Assert-Agent-Key": "${ASSERT_AGENT_KEY}" }
-    }
-  }
-}

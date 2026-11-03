@@ -1,7 +1,7 @@
 {
   "name": "cca",
-  "version": "1.0.0",
-  "description": "Canine Code Analyzer: the public API as an MCP server, and a command that scans this repository and reads its scores and open findings",
+  "version": "2.0.0",
+  "description": "Canine Code Analyzer, the engine behind Assure, Assert and Assay: the one MCP server, /cca-fix to fix this repository's findings most important first, and /cca-scan to scan it",
   "author": {
     "name": "Canine"
   }

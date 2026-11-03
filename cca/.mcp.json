@@ -2,8 +2,7 @@
   "mcpServers": {
     "cca": {
       "type": "http",
-      "url": "${CCA_MCP_URL:-https://app.cca.canine.dev/mcp/cca}",
-      "headers": { "Authorization": "Bearer ${CCA_API_KEY}" }
+      "url": "${CCA_MCP_URL:-https://app.assure.canine.dev/mcp/cca}"
     }
   }
 }

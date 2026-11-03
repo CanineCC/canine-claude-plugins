@@ -1,6 +1,0 @@
-{
-  "name": "assure",
-  "version": "1.0.0",
-  "description": "Assure: what to fix before real people use your app, for your coding agent to fix one finding at a time",
-  "author": { "name": "Canine" }
-}
