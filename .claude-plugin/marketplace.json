@@ -8,7 +8,7 @@
     {
       "name": "cca",
       "source": "./cca",
-      "description": "Canine Code Analyzer, for Assure, Assert and CCA: /cca-fix fixes this repository's findings most important first, /cca-scan scans it"
+      "description": "The cca MCP server: /cca-fix fixes this repository's findings most important first, /cca-scan scans it"
     },
     {
       "name": "assay",

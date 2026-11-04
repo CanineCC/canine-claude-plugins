@@ -1,7 +1,7 @@
 {
   "name": "cca",
   "version": "2.0.0",
-  "description": "Canine Code Analyzer, the engine behind Assure, Assert and Assay: the one MCP server, /cca-fix to fix this repository's findings most important first, and /cca-scan to scan it",
+  "description": "The cca MCP server, /cca-fix to fix this repository's findings most important first, and /cca-scan to scan it",
   "author": {
     "name": "Canine"
   }
